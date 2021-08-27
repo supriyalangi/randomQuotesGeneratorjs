@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: cornflowerblue;
+   
+}
+
+#container{
+    background-color: burlywood;
+    border:  50px solid brown;
+    height: 300px;
+    width: 500px;
+   text-align: center;
+   margin: 50px auto;
+}
+#btn{
+margin: 50px auto;
+height: 50px;
+width: 250px;
+font-size: 20px;
+background-color: wheat;
+}
+#output{
+margin: 25px auto;
+font-size: 25px;
+color: black;
+}
